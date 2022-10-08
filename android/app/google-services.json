@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1027111466832",
+    "project_id": "flaconi-a3b67",
+    "storage_bucket": "flaconi-a3b67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027111466832:android:4dfd8e52027d067b8d5e55",
+        "android_client_info": {
+          "package_name": "com.example.music_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027111466832-kr4uecvrvg0a45m65hj6n2l9q7s4dn2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_loKXuec9yaygyy69OKaOVE7knpJ93H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027111466832-kr4uecvrvg0a45m65hj6n2l9q7s4dn2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
